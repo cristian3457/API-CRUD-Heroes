@@ -9,7 +9,7 @@
         },
         {
             "src": "/.*",
-            "dest": "./server/server.js"
+            "dest": "server/server.js"
         }
     ]
 }
