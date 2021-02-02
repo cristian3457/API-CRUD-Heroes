@@ -8,7 +8,7 @@
             "handle": "filesystem"
         },
         {
-            "src": "/.*",
+            "src": "server/server.js",
             "dest": "server/server.js"
         }
     ]
